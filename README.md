@@ -1,5 +1,7 @@
 this file checking to clone and push
 
+clone command push on hub
+
 # oct09
 demo-class
 samuel 
