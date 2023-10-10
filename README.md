@@ -12,4 +12,6 @@ rd line
 
 new changes from hub
 git stash
->>>>>>> Stashed changes
+git stash
+
+git stash list
