@@ -1,4 +1,7 @@
+git revert command
+
 this file checking to clone and push
+
 
 clone command push on hub
 
