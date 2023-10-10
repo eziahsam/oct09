@@ -1,3 +1,5 @@
+this file checking to clone and push
+
 # oct09
 demo-class
 samuel 
@@ -13,6 +15,7 @@ rd line
 new changes from hub
 git stash
 git stash
+
 
 
 git stash apply
